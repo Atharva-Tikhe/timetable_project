@@ -5,13 +5,16 @@ A repo for maintaining DSC project files
 
 
 ### Tasks
-- [ ] Main idea approved 
+- [x] Main idea approved 
 - [x]  Base code
 - [x]  Working GUI
 - [ ]  Database
-- [ ]  Responsive
-- [ ]  Animations
-- [ ]  Outputting to Word
-- [ ]  Feature: History
+  - [ ] Subject codes
+  - [ ] Feature: edit database OTG
+- [x]  Responsive
+~~Animations~~
+- [ ]  Outputting to Word -> Karishma
+- [ ]  Feature: History 
 - [ ]  Feature: Authentication
-- [ ]  Feature: Web-Hosting
+
+
