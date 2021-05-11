@@ -8,13 +8,12 @@ A repo for maintaining DSC project files
 - [x] Main idea approved 
 - [x]  Base code
 - [x]  Working GUI
-- [ ]  Database
-  - [ ] Subject codes
-  - [ ] Feature: edit database OTG
+- [x]  Database
+  - [x] Subject codes
+
 - [x]  Responsive
 ~~Animations~~
-- [ ]  Outputting to Word -> Karishma
-- [ ]  Feature: History 
-- [ ]  Feature: Authentication
+- [x]  Outputting to Word -> Karishma
+
 
 
